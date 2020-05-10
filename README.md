@@ -11,11 +11,14 @@ _Forget about starting from scratch! With this basic application you can start y
 
 ## This application is developed with ReactJS and Material UI.
 
+![](./src/assets/image1.png)
+![](./src/assets/image2.png)
+
 # As usual:
 
-### `npm install`
+`npm install`
 
-### `npm start`
+`npm start`
 
 ![](https://media0.giphy.com/media/JIX9t2j0ZTN9S/200w.webp?cid=ecf05e47874ef388da4970678b685a54c5448ef2dcc8dcd3&rid=200w.webp)
 
