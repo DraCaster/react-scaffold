@@ -1,25 +1,36 @@
+//Developed by Lushan - lujanrojas.informatica@gmail.com
+//https://github.com/dracaster
+
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import 'typeface-roboto';
+
+//components
+import MenuToolbar from './modules/components/menuToolbar/MenuToolbar'
+import Footer from './modules/components/footer/Footer'
+
+//Router
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
+//Routes
+import { routesPublic } from './modules/layout/routes'
 
 function App() {
+
+  const routeComponentsPublic = routesPublic
+    .map(({ path, component }, key) =>
+      <Route
+        exact path={path}
+        component={component}
+        key={key} />);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <MenuToolbar />
+      <Switch>
+        {routeComponentsPublic}
+      </Switch>
+      <Footer />
+    </Router>
   );
 }
 
