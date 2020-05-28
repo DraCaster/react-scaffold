@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Scaffold/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Scaffold/static/js/main.b9a9ea79.chunk.js",
+    "main.js.map": "/React-Scaffold/static/js/main.b9a9ea79.chunk.js.map",
+    "runtime-main.js": "/React-Scaffold/static/js/runtime-main.76e0846e.js",
+    "runtime-main.js.map": "/React-Scaffold/static/js/runtime-main.76e0846e.js.map",
+    "static/css/2.92723d22.chunk.css": "/React-Scaffold/static/css/2.92723d22.chunk.css",
+    "static/js/2.84d465b3.chunk.js": "/React-Scaffold/static/js/2.84d465b3.chunk.js",
+    "static/js/2.84d465b3.chunk.js.map": "/React-Scaffold/static/js/2.84d465b3.chunk.js.map",
+    "index.html": "/React-Scaffold/index.html",
+    "precache-manifest.c3fb75b3270b3c457c6f088ad9f803d1.js": "/React-Scaffold/precache-manifest.c3fb75b3270b3c457c6f088ad9f803d1.js",
+    "service-worker.js": "/React-Scaffold/service-worker.js",
+    "static/css/2.92723d22.chunk.css.map": "/React-Scaffold/static/css/2.92723d22.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Scaffold/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.84d465b3.chunk.js.LICENSE.txt": "/React-Scaffold/static/js/2.84d465b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Scaffold/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e0846e.js",
+    "static/css/2.92723d22.chunk.css",
+    "static/js/2.84d465b3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b9a9ea79.chunk.js"
+  ]
+}
