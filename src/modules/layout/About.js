@@ -20,7 +20,7 @@ const useStyles = makeStyles(theme => ({
     },
 }));
 
-const Home = (props) => {
+const About = (props) => {
     const classes = useStyles();
     return (
         <Grid container
@@ -42,4 +42,4 @@ const Home = (props) => {
     );
 }
 
-export default Home;
+export default About;
