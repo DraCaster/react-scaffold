@@ -37,6 +37,9 @@ _Forget about starting from scratch! With this basic application you can start y
 
 Lujan Rojas – [@LushanKaramakov](https://twitter.com/LushanKaramakov) – lujanrojas.informatica@gmail.com
 
+_Si te sirvió, hazmelo saber con una estrellita_ :star: :yellow_heart:
+
+_If it served you, gift me a star_ :star: :yellow_heart:
 
 [https://github.com/DraCaster/](https://github.com/DraCaster/)
 
