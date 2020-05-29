@@ -1,3 +1,5 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
 
 # ReactJS Scaffold
 
@@ -46,3 +48,12 @@ _If it served you, gift me a star_ :star: :yellow_heart:
 [https://github.com/DraCaster/](https://github.com/DraCaster/)
 
 ***Hecho con amor - Alt + 3***
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[stars-shield]: https://img.shields.io/github/stars/dracaster/react-scaffold.svg?style=flat-square
+[stars-url]: https://github.com/dracaster/react-scaffold/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/dracaster/react-scaffold.svg?style=flat-square
+[contributors-url]: https://github.com/dracaster/react-scaffold/graphs/contributors
